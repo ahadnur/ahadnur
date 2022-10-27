@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m **Ahadujjaman Nur**
-👀 I’m interested in *Frontend Development* and *Teaching Programming*  
+👀 I’m woking as a ***FRONTEND DEVELOPER*** and ***PROGRAMMING TUTOR***  
 🌱 I’m currently learning *Advanced Frontend Technologies*  
-💞️ I’m looking to collaborate on a team where I can boost up my skills.  
+💞️ I’m looking for a collaborative team where I can boost up my skills.  
 📫 Check my other profiles on [`Linktree`](https://linktr.ee/ahadnur44)
 
 <!---
