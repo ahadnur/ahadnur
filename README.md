@@ -9,7 +9,7 @@ ahadnur/ahadnur is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<table align="center" border="0px">
+<table align="center" border="none">
    <tr>
      <td> 
         
