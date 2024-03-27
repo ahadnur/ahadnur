@@ -23,7 +23,7 @@
   </a><br>
   </a>
     <a href="https://github.com/ahadnur?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fkkapuria3"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fahadnur"/></a>
   <a href="https://github.com/ahadnur44?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ahadnur?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -32,18 +32,18 @@
 
 <h3 align="center">GitHub Profile Stats</h3>
 
-  <img align="center" alt="kkapuria3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/> <img align="center" alt="kkapuria3's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkapuria3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
+  <img align="center" alt="ahadnur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahadnur&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/> <img align="center" alt="ahadnur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadnur&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </p>
 
 <p align="center">
-<img align="center" alt="kkapuria3's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=kkapuria3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
+<img align="center" alt="ahadnur's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=ahadnur&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<img alt="kkapuria3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kkapuria3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
+<img alt="ahadnur's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ahadnur&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
 
 <h3 align="center">My Curated Toolbox</h3>
 <br>
