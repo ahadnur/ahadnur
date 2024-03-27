@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ahadujjaman Nur. </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas+&color=F7B847&center=true&vCenter=true&multiline=true&width=900&height=60&lines=Programming+tutor+and+Frontend+Developer.+;Specilized+in+HTML+CSS+JavaScript+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas+&color=F7B847&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Programming+tutor+and+Frontend+Developer.+;Specilized+in+HTML+CSS+JavaScript+Python.)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
