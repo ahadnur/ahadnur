@@ -66,7 +66,7 @@
      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCss-0ea5e9.svg?logo=TailwindCss&logoColor=white"></a>
-    <a href="#"><img alt="Next Js" src="https://img.shields.io/badge/NextJs-000000.svg?logo=NextJs&logoColor=white"></a>
+    <a href="#"><img alt="Next Js" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.js&logoColor=white"></a>
   <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     </p>
 
