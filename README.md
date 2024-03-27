@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahadujjaman Nur. </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas+&color=F7B847&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Bioinformatician+specializing+in+Clinical+Human+Genomics.+;My+favourite+hobby+is+to+script+open+source+bots.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas+&color=F7B847&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Frontend+Developer+and+Programming+Tutor+Experienced+in+PYTHON+JAVASCRIPT+.+;My+favourite+hobby+is+to+script+open+source+bots.)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
