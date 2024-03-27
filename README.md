@@ -43,7 +43,7 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<img alt="ahadnur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ahadnur&theme=github-compact"  /></a>
+<img alt="ahadnur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ahadnur&theme=vue"  /></a>
 
 <h3 align="center">My Curated Toolbox</h3>
 <br>
