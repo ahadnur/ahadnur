@@ -12,17 +12,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahadnur44/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahadnur44/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:kapuriakaran@gmail.com">
+  <a href="mailto:ahadnur44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
-  <a href="https://twitter.com/kapuriakaran" target="blank">
+  <a href="https://twitter.com/psylab2022/" target="blank">
     <img src="https://img.shields.io/twitter/follow/kapuriakaran?label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter" />
   </a><br>
   </a>
-    <a href="https://github.com/kkapuria3?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ahadnur44?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fkkapuria3"/></a>
   <a href="https://github.com/kkapuria3?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kkapuria3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
